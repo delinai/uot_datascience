@@ -1,0 +1,14 @@
+id,cust_name,num_products,province,len_relationship,cust_category
+1001,Johnny Awesome,3,ON,1,wealth
+1002,Bob Marley,4,ON,1,personal_banking
+1004,Taylor Swift,2,AB,2,hnw
+1101,James Dean,3,BC,3,wealth
+1006,Stephen Smith,5,ON,4,hnw
+1014,Delilah Avery,2,AB,3,personal_banking
+1254,Johnson Cory,1,AB,4,hnw
+1285,Maria Alva,5,ON,2,wealth
+1354,Jessica Fast,4,BC,5,personal_banking
+1005,Mariah Anita Smith,2,BC,3,personal_banking
+1008,Robert Optimus,3,MB,10,hnw
+1585,Steven Prime,5,AB,2,wealth
+1475,Stephanie Element,2,ON,5,personal_banking
